@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Привет! я kirr1337 (или кирилл в реальной жизни)
 
-<!--
-**kirr1337/kirr1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 О себе
+Я начинающий Java-разработчик из Красноярска. Я создаю игры и приложения (иногда утилиты)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Изучаю:** Java (потоки, коллекции, JavaFX, FXGL, Kotlin)
+
+- 📫 **Как со мной связаться ->**
+- Телеграмм: @r2kip
+- Дискорд: @0to8_
+- Ютуб: https://www.youtube.com/@I_KiRCrazy
+
+- ⚡ **Интересный факт:** Начинал изучать Java чтобы сделать мод для майнкрафта (:
+
+- ### 🔨 Мой стек технологий
+- **Языки:** Java, Kotlin, немного C++ и С#
+
+
+- **Инструменты:** IntelliJ IDEA, Android Studio, Git, Maven, FXGL, Swing
+  
+
+- ### 📈 Моя статистика на GitHub
+![Статистика -> ](https://github-readme-stats.vercel.app/api?username=kirr1337&show_icons=true&theme=radical)
+
+![Топ языков ->](https://github-readme-stats.vercel.app/api/top-langs/?username=kirr1337&layout=compact&theme=radical)
