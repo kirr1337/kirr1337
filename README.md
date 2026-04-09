@@ -23,4 +23,6 @@
 - ### 📈 Моя статистика на GitHub
 ![Статистика -> ](https://github-readme-stats.vercel.app/api?username=kirr1337&show_icons=true&theme=radical)
 
-![Топ языков ->](https://github-readme-stats.vercel.app/api/top-langs/?username=kirr1337&layout=compact&theme=radical)
+[![Топ языков ->](https://github-readme-stats.vercel.app/api/top-langs/?username=kirr1337)](https://github.com/kirr1337)
+
+
