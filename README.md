@@ -17,7 +17,7 @@
 - **Языки:** Java, Kotlin, немного C++ и С#
 
 
-- **Инструменты:** IntelliJ IDEA, Android Studio, Git, Maven, FXGL, Swing
+- **Инструменты:** IntelliJ IDEA, Android Studio, Git, Maven, libGDX, Swing
   
 
 - ### 📈 Моя статистика на GitHub
